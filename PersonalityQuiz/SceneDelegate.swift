@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PersonalityQuiz
 //
-//  
+//  created by Athaina Rada
 //
 //
 

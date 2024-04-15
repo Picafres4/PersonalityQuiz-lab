@@ -2,7 +2,7 @@
 //  IntroVC.swift
 //  PersonalityQuiz
 //
-//  
+//  created by Athaina Rada
 //
 //
 
